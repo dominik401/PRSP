@@ -8,5 +8,4 @@ else:
 
     for i in range(2, n-ostatak_puta + 1):
         cijena +=i # 3(u prvom gradu)+2(u drugom)+3(u trecem)
-
     print(cijena)
